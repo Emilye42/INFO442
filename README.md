@@ -1,3 +1,3 @@
-# INFO442
+#Drexel university INFO442 term project
 
 # hello
