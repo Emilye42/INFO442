@@ -1,18 +1,19 @@
 # Rossmann Store Sales Data Research Project
 
-Overview
+## Overview
 This project, conducted by Group 5 for Drexel University's INFO442 course, focuses on analyzing the Rossmann Store Sales dataset. The primary objective is to derive insights and build predictive models to forecast sales for the Rossmann drug store chain.
 
-Dataset
+**Dataset**
 The dataset used for this project is sourced from Kaggle:
 Rossmann Store Sales Dataset
 
-# Dataset Description
+**Dataset Description**
 
 The dataset contains historical sales data for Rossmann stores. Each row represents a specific store's sales data on a particular date.
-https://www.kaggle.com/code/uttam94/time-series-analysis-using-prophet
+[Dataset](https://www.kaggle.com/code/uttam94/time-series-analysis-using-prophet)
 
-#Project Structure
+## Project Structure
+
 The project is organized as follows:
 
 data/: Contains the raw and processed data files.
@@ -21,7 +22,8 @@ src/: Python scripts for data processing, feature engineering, and model trainin
 reports/: Generated reports and visualizations.
 README.md: Project overview and instructions.
 
-#Getting Started
+## Getting Started
+
 Prerequisites
 Python 3.x
 Jupyter Notebook
@@ -32,53 +34,25 @@ scikit-learn
 matplotlib
 seaborn
 Installation
-Clone the repository:
-bash
-git clone https://github.com/Emilye42/INFO442-------------------
-
-Navigate to the project directory:
-bash
-cd rossmann-sales
-
-Install the required Python libraries:
-bash
+**Clone the repository:**
+```
+git clone https://github.com/Emilye42/INFO442
+```
+**Environment setup:**
+```
 pip install -r requirements.txt
+```
 
-Usage
-Data Preparation:
-
-Download the dataset from Kaggle and place it in the data/raw directory.
-Run the data cleaning and preprocessing script:
-bash
-python src/data_preprocessing.py
-
-Exploratory Data Analysis (EDA):
-
-Open and run the EDA notebook:
-bash
-jupyter notebook notebooks/eda.ipynb
-
-Model Development:
-
-Run the model training script:
-bash
-python src/model_training.py
-
-Evaluation:
-
-Evaluate the model performance using the evaluation notebook:
-bash
-jupyter notebook notebooks/evaluation.ipynb
-
-Contributors
+## Appendix
+**Contributors**
 Group 5 Members(alphabetical):
-EmilyYe
+Emily Ye
 Jerry Li
 Junkai Ge
 Shenyang Dong
 
-License
+**License**
 This project is licensed under the MIT License.
 
-Acknowledgements
+**Acknowledgements**
 We would like to thank Kaggle for providing the dataset and the Drexel University INFO442 instructors for their guidance and support.
