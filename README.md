@@ -16,11 +16,11 @@ The dataset contains historical sales data for Rossmann stores. Each row represe
 
 The project is organized as follows:
 
-data/: Contains the raw and processed data files.
-notebooks/: Jupyter notebooks with exploratory data analysis (EDA), data cleaning, and model development.
-src/: Python scripts for data processing, feature engineering, and model training.
-reports/: Generated reports and visualizations.
-README.md: Project overview and instructions.
+- data/: Contains the raw and processed data files.
+- notebooks/: Jupyter notebooks with exploratory data analysis (EDA), data cleaning, and model development.
+- src/: Python scripts for data processing, feature engineering, and model training.
+- reports/: Generated reports and visualizations.
+- README.md: Project overview and instructions.
 
 ## Getting Started
 
