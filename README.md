@@ -1,4 +1,5 @@
-#Rossmann Store Sales Data Research Project
+# Rossmann Store Sales Data Research Project
+
 Overview
 This project, conducted by Group 5 for Drexel University's INFO442 course, focuses on analyzing the Rossmann Store Sales dataset. The primary objective is to derive insights and build predictive models to forecast sales for the Rossmann drug store chain.
 
@@ -6,8 +7,9 @@ Dataset
 The dataset used for this project is sourced from Kaggle:
 Rossmann Store Sales Dataset
 
-#Dataset Description
-The dataset contains historical sales data for Rossmann stores. Each row represents a specific store's sales data on a particular date. 
+# Dataset Description
+
+The dataset contains historical sales data for Rossmann stores. Each row represents a specific store's sales data on a particular date.
 https://www.kaggle.com/code/uttam94/time-series-analysis-using-prophet
 
 #Project Structure
@@ -56,7 +58,6 @@ Open and run the EDA notebook:
 bash
 jupyter notebook notebooks/eda.ipynb
 
-
 Model Development:
 
 Run the model training script:
@@ -81,11 +82,3 @@ This project is licensed under the MIT License.
 
 Acknowledgements
 We would like to thank Kaggle for providing the dataset and the Drexel University INFO442 instructors for their guidance and support.
-
-
-
-
-
-
-
-
