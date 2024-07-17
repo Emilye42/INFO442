@@ -45,14 +45,19 @@ pip install -r requirements.txt
 
 ## Appendix
 **Contributors**
+
 Group 5 Members(alphabetical):
-Emily Ye
-Jerry Li
-Junkai Ge
-Shenyang Dong
+- Emily Ye
+- Jerry Li
+- Junkai Ge
+- Shenyang Dong
 
 **License**
+
+
 This project is licensed under the MIT License.
 
 **Acknowledgements**
+
+
 We would like to thank Kaggle for providing the dataset and the Drexel University INFO442 instructors for their guidance and support.
